@@ -1,0 +1,194 @@
+[
+  {
+    "id_plato": 1,
+    "nombre": "Empanada de carne",
+    "descripcion": "Empanada de carne",
+    "precio": 1500,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  },
+  {
+    "id_plato": 2,
+    "nombre": "Empanada de jamon y queso",
+    "descripcion": "Empanada de jamon y queso",
+    "precio": 1500,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  },
+  {
+    "id_plato": 3,
+    "nombre": "Empanada de verduras",
+    "descripcion": "Empanada de verduras",
+    "precio": 1500,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  },
+  {
+    "id_plato": 4,
+    "nombre": "Papas fritas con cheddar y panceta",
+    "descripcion": "Porcion de papas con cheddar y panceta",
+    "precio": 5500,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  },
+  {
+    "id_plato": 5,
+    "nombre": "Rabas",
+    "descripcion": "porcion de rabas",
+    "precio": 6000,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  },
+  {
+    "id_plato": 6,
+    "nombre": "Provoleta",
+    "descripcion": "Provoleta a la parrilla",
+    "precio": 6000,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  },
+  {
+    "id_plato": 7,
+    "nombre": "Milanesa napolitana con papas fritas",
+    "descripcion": "Milanesa con salsa, queso y papas",
+    "precio": 8500,
+    "apto_celiacos": false,
+    "categoria": "Platos principales"
+  },
+  {
+    "id_plato": 8,
+    "nombre": "Hamburguesa completa",
+    "descripcion": "Hamburguesa completa",
+    "precio": 6500,
+    "apto_celiacos": false,
+    "categoria": "Platos principales"
+  },
+  {
+    "id_plato": 9,
+    "nombre": "Pizza muzzarella",
+    "descripcion": "Pizza de muzzarella",
+    "precio": 7000,
+    "apto_celiacos": false,
+    "categoria": "Platos principales"
+  },
+  {
+    "id_plato": 10,
+    "nombre": "Pizza especial",
+    "descripcion": "Pizza con jamon",
+    "precio": 8500,
+    "apto_celiacos": false,
+    "categoria": "Platos principales"
+  },
+  {
+    "id_plato": 11,
+    "nombre": "Pastel de papa",
+    "descripcion": "Pastel de papa casero",
+    "precio": 7500,
+    "apto_celiacos": false,
+    "categoria": "Platos principales"
+  },
+  {
+    "id_plato": 12,
+    "nombre": "Noquis con salsa",
+    "descripcion": "Noquis con salsa a eleccion",
+    "precio": 7000,
+    "apto_celiacos": false,
+    "categoria": "Platos principales"
+  },
+  {
+    "id_plato": 13,
+    "nombre": "Bife de chorizo",
+    "descripcion": "bife de chorizo con guarnicion",
+    "precio": 6500,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  },
+  {
+    "id_plato": 14,
+    "nombre": "Tarta de verduras",
+    "descripcion": "Tarta con diversas verduras",
+    "precio": 3000,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  },
+  {
+    "id_plato": 15,
+    "nombre": "Ensalada Cesar",
+    "descripcion": "Ensalada Cesar",
+    "precio": 6000,
+    "apto_celiacos": false,
+    "categoria": "Ensaladas"
+  },
+  {
+    "id_plato": 16,
+    "nombre": "Ensalada mixta",
+    "descripcion": "Lechuga, tomate y cebolla",
+    "precio": 4000,
+    "apto_celiacos": false,
+    "categoria": "Ensaladas"
+  },
+  {
+    "id_plato": 17,
+    "nombre": "Flan casero",
+    "descripcion": "Flan casero",
+    "precio": 3000,
+    "apto_celiacos": false,
+    "categoria": "Postres"
+  },
+  {
+    "id_plato": 18,
+    "nombre": "Helado",
+    "descripcion": "Porcion de helado",
+    "precio": 2500,
+    "apto_celiacos": false,
+    "categoria": "Postres"
+  },
+  {
+    "id_plato": 19,
+    "nombre": "Tiramisu",
+    "descripcion": "Postre tiramisu",
+    "precio": 4000,
+    "apto_celiacos": false,
+    "categoria": "Postres"
+  },
+  {
+    "id_plato": 20,
+    "nombre": "Panqueque",
+    "descripcion": "Panqueque con dulce de leche",
+    "precio": 1500,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  },
+  {
+    "id_plato": 21,
+    "nombre": "Gaseosa",
+    "descripcion": "Botella de gaseosa",
+    "precio": 2000,
+    "apto_celiacos": false,
+    "categoria": "Bebidas"
+  },
+  {
+    "id_plato": 22,
+    "nombre": "Agua sin gas",
+    "descripcion": "Botella de agua sin gas",
+    "precio": 1500,
+    "apto_celiacos": false,
+    "categoria": "Bebidas"
+  },
+  {
+    "id_plato": 23,
+    "nombre": "Jugo",
+    "descripcion": "Jugo de frutas",
+    "precio": 1800,
+    "apto_celiacos": false,
+    "categoria": "Bebidas"
+  },
+  {
+    "id_plato": 24,
+    "nombre": "Vino",
+    "descripcion": "Vino tinto o blanco",
+    "precio": 2500,
+    "apto_celiacos": false,
+    "categoria": "Entradas"
+  }
+]
